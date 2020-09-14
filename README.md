@@ -1,7 +1,5 @@
 # RemoteSensingCropModels
 
-Validation of crop model simulations using remote sensing data 
-
 Natural resources are managed at field-scale (small), but, climate, and soils (two key drivers of agronomic output) vary at different scales, and policy settings are usually set at regional and national scales. Working across these multiple scales is one of the biggest challenges in understanding how climate change may affect the stability of food security and economic outputs in countries where livestock industry represents a major component of the economy (e.g. Argentina, Uruguay and Australia).
 
 The lack of engagement with this problem is strongly linked with the disassociation of two related research fields. While, remote-sensing research has advanced in translating of satellite data to meaningful information via agronomic variables at field scales, modelling capabilities at catchment scale (large) represents the only tool able to answer, real world, tactical and operational farming questions. However, to find answers at a larger scale and fill the knowledge gap it demands a large-scale calibration of models, so they can be applied over a broad range of situations. Thus, a promising approach is to use remote-sensing data to validate models. Another aspect that prevents the provision of useful tools to the livestock industry is the lack of engagement of academia with decision-makers, key actors who should provide co-innovative “common-sense” rules to test models.
